@@ -1,11 +1,21 @@
+container {
 
-navbar {
+    padding: 20;
 
-    padding: 0;
+    margin: 20;
 
-    margin: 0;
+    background-color: #310872;
 
-    background-color: #6610f2;
+    color: aliceblue;
+}
+
+.body {
+    background-color: #310872;
+}
+
+.brand-black-2 {
+    height: 40px;
+    display: block;
 }
 
 #offcanvasBottom24 {
