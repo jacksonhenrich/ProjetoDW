@@ -9,8 +9,13 @@ container {
     color: aliceblue;
 }
 
+.navbar {
+    background-color: #2d3656  !important;
+    color: aliceblue;
+}
+
 .body {
-    background-color: #310872;
+    background-color: #2d3656 !important;
 }
 
 .brand-black-2 {
