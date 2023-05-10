@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "example@gmail.com",
+      "senha": "12345",
+      "enderecoFisico": "Jaguaribe",
+      "tipoResidencia": "Casa",
+      "cidade": "João Pessoa",
+      "estado": "Paraiba",
+      "cep": "58000-000"
+    },
+    {
+      "id": 2,
+      "email": "example@gmail.com",
+      "senha": "12345",
+      "enderecoFisico": "Jaguaribe",
+      "tipoResidencia": "Casa",
+      "cidade": "João Pessoa",
+      "estado": "Paraiba",
+      "cep": "58000-000"
+    },
+    {
+      "email": "teste@email.com",
+      "senha": "aa",
+      "enderecoFisico": "aa",
+      "estado": "PB",
+      "tipoResidencia": "aa",
+      "cidade": "aa",
+      "cep": "aa",
+      "id": 3
+    },
+    {
+      "email": "tiopatinhas@gmail.com",
+      "senha": "BCjNBKUgSfJp8TT",
+      "enderecoFisico": "rangel",
+      "estado": "PB",
+      "tipoResidencia": "casa",
+      "cidade": "jampacity",
+      "cep": "99999-999",
+      "id": 4
+    }
+  ],
+  "wifis": [
+    {
+      "id": 1,
+      "ssid": "WI-FI GUILHERME",
+      "rssi": "-82",
+      "channel": 4,
+      "band": "2.4GHz",
+      "maxrate": 200,
+      "width": 40
+    },
+    {
+      "id": 2,
+      "ssid": "LEO NET",
+      "rssi": "-60",
+      "channel": 7,
+      "band": "5.0GHz",
+      "maxrate": 186,
+      "width": 40
+    },
+    {
+      "id": 3,
+      "ssid": "JACKSON WI-FI",
+      "rssi": "-30",
+      "channel": 6,
+      "band": "2.4GHz",
+      "maxrate": 174,
+      "width": 20
+    }
+  ]
+}
