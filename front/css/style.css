@@ -10,6 +10,7 @@ container {
 }
 
 .navbar {
+<<<<<<< HEAD
     background-color: #2d3656 !important;
     color: aliceblue;
 }
@@ -28,6 +29,14 @@ a {
     border-radius: 5px;
     -webkit-text-stroke: 2px #fffcfc;
     text-shadow: 2px #05b11c;
+=======
+    background-color: #2d3656  !important;
+    color: aliceblue;
+}
+
+.body {
+    background-color: #2d3656 !important;
+>>>>>>> a9d7e44ac0d5b0fa8c8b522a6559b30bd6a1d62e
 }
 
 .brand-black-2 {
