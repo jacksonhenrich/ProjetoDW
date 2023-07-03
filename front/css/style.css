@@ -1,16 +1,44 @@
+container {
 
-navbar {
+    padding: 20;
 
-    padding: 0;
+    margin: 20;
 
-    margin: 0;
+    background-color: #310872;
 
-    background-color: #6610f2;
+    color: aliceblue;
+}
+
+.navbar {
+    background-color: #2d3656 !important;
+    color: aliceblue;
+}
+
+body {
+    background-color: #2d3656 !important;
+    color: aliceblue;
+}
+
+tr {
+    color: aliceblue;
+}
+
+a {
+    border: 2px solid #FFF;
+    border-radius: 5px;
+    -webkit-text-stroke: 2px #fffcfc;
+    text-shadow: 2px #05b11c;
+}
+
+.brand-black-2 {
+    height: 40px;
+    display: block;
 }
 
 #offcanvasBottom24 {
     height: min(55vh, 600px) !important;
 }
+
 #offcanvasBottom50 {
     height: min(55vh, 600px) !important;
 }

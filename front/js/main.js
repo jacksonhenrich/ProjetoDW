@@ -17,7 +17,7 @@ function createWifiView(wifi) {
       <td>${wifi.channel}</td>
       <td>${wifi.band}</td>
       <td>${wifi.maxrate}</td>
-      <td>${wifi.width}</td>
+      <td>${wifi.security}</td>
     </tr>`;
 
   tbody.insertAdjacentHTML("beforeend", rowView);

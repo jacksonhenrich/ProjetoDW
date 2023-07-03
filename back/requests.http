@@ -9,3 +9,4 @@ Content-Type: application/json
 
 
 # curl -H "Content-Type: application/json" --request POST -d '{"email":"teste@email.com","senha":"hgçlfasj hç","enderecoFisico":"jageu","cidade":"jampa","cep":"55555-555"}' --url "http://localhost:3000/users"
+

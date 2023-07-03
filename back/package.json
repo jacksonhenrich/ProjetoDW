@@ -1,8 +1,21 @@
 {
+  "type": "module",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "@prisma/client": "^4.16.0",
+    "bcrypt": "^5.1.0",
+    "chart.js": "^4.3.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "systeminformation": "^5.17.12"
+  },
+  "devDependencies": {
+    "prisma": "^4.16.0"
   }
 }

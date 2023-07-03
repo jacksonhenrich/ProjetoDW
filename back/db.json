@@ -49,7 +49,7 @@
       "channel": 4,
       "band": "2.4GHz",
       "maxrate": 200,
-      "width": 40
+      "security": 40
     },
     {
       "id": 2,
@@ -58,7 +58,7 @@
       "channel": 7,
       "band": "5.0GHz",
       "maxrate": 186,
-      "width": 40
+      "security": 40
     },
     {
       "id": 3,
@@ -67,7 +67,7 @@
       "channel": 6,
       "band": "2.4GHz",
       "maxrate": 174,
-      "width": 20
+      "security": 20
     }
   ]
 }
