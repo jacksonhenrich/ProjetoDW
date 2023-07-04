@@ -5,7 +5,7 @@ GET  http://127.0.0.1:3000/users HTTP/1.1
 POST  http://127.0.0.1:3000/users
 Content-Type: application/json
 
-{"email":"teste@email.com","senha":"hgçlfasj hç","enderecoFisico":"jageu","cidade":"jampa","cep":"55555-555"}
+{"email":"teste@email.com","senha":"hgçlfasj hç","enderecoFisico":"jageu","cidade":"jampa","cep":"55555-555", "tipoResidencia": "Casa", "estado": "PB"}
 
 
 # curl -H "Content-Type: application/json" --request POST -d '{"email":"teste@email.com","senha":"hgçlfasj hç","enderecoFisico":"jageu","cidade":"jampa","cep":"55555-555"}' --url "http://localhost:3000/users"
