@@ -1,12 +1,37 @@
 # ProjetoDW - JGL Wi-fi Analyzer
 
-### O nosso projeto foi inspirado no aplicativo Wifi Analyzer, tivemos o objetivo de viabilizar a captura das redes de wifi direto do site na web.
+## Descrição do projeto
+- Site para a captura das redes wifi com recursos que possibilitam uma analise detalhada das redes disponíveis.
+
+## Requisitos mínimos
+- Para executar: Uma máquina windows para rodar o servidor e um navegador para acesso e visualização;
+- Se o site for disponibilizado, apenas um navegador para o acesso.
+
+## Processo de instalação
+- É necessario a instalação do VS code ou similar para a leitura do código, a partir daí temos que instalar o bootstrap, node js, prisma;
+- E as extensões: Prisma, Live Server, SQLite Viewer, Docker.
+
+## Inspirações de Funcionalidade
+
+O nosso projeto foi inspirado no aplicativo Wifi Analyzer, tivemos o objetivo de viabilizar a captura das redes de wifi direto do site na web.
 
 ## Telas
 
-![Login](https://drive.google.com/file/d/12vxB0DZqt32TCgZFvazKsaBIaDHTzwT9/view?usp=drive_link)
-![Cadastro](https://drive.google.com/file/d/19DAYsLPrYTXu4RX34GZChLm9NrpA6gIU/view?usp=drive_link)
-![Home](https://drive.google.com/file/d/1FpNi-B50SnZDjIgwYDd0Ey3DNgLT6arW/view?usp=drive_link)
+![Login](front/img/Login.png)
+
+![Cadastro](front/img/SingUp.png)
+
+![Home](front/img/JGL_WIFI_Analyzer.png)
+
+## Descrição das Funcionalidades do Projeto
+- Na página de login o usuário pode entrar no site ou ir para a página de cadastro;
+- Na página de cadastro o usuário faz o seu cadastro que será armazenado no back;
+- Na página principal o usuário pode verificar as redes disponíveis, analisar as informações dispostas entre outros.
+
+## Contatos
+- Guilherme Lucas Melo Vieira - @academico.ifpb.edu.br
+- Jackson Henrique de Oliveira Lima - jackson.henrique@academico.ifpb.edu.br
+- Leonardo Antônio Moreira Wijnands - @academico.ifpb.edu.br 
 
 ## Disciplina: 
 - Desenvolvimento Web do P4 de Redes de Computadores,
